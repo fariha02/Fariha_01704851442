@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Biriani",
+        "price": 280,
+        "image": "image/01.png"
+    },
+    {
+        "id": 2,
+        "name":" Momo(6pc)",
+        "price": 160,
+        "image": "image/02.png"
+    },
+    {
+        "id": 3,
+        "name":" Milkshake",
+        "price": 290,
+        "image": "image/03.png"
+    },
+    {
+        "id": 4,
+        "name":" Chocolate Cake(Half Pound)",
+        "price": 500,
+        "image": "image/04.png"
+    },
+    {
+        "id": 5,
+        "name":" Cappucino",
+        "price": 300,
+        "image": "image/05.png"
+    },
+    {
+        "id": 6,
+        "name":" Pasta",
+        "price": 250,
+        "image": "image/06.png"
+    },
+    {
+        "id": 7,
+        "name":" Sandwich",
+        "price": 150,
+        "image": "image/07.png"
+    },
+    {
+        "id": 8,
+        "name":" BBQ Chicken",
+        "price": 200,
+        "image": "image/08.png"
+    }
+
+]
